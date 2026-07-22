@@ -1,0 +1,4 @@
+com.bingbaihanji.luca.plugin.audio.spectrum.decoder.impl.WavDecoder
+com.bingbaihanji.luca.plugin.audio.spectrum.decoder.impl.Mp3Decoder
+com.bingbaihanji.luca.plugin.audio.spectrum.decoder.impl.FlacDecoder
+com.bingbaihanji.luca.plugin.audio.spectrum.decoder.impl.ApeDecoder

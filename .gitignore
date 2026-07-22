@@ -1,0 +1,35 @@
+# Sunsen (独立仓库，不包含在此仓库中)
+Sunsen/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Xcodemap
+.xcodemap/
+
+# Claude
+.claude/
+
+# Other
+*.png
+*.jpg
+*.jpeg
+*.gif
